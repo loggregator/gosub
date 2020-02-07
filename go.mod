@@ -1,4 +1,4 @@
-module github.com/vito/gosub
+module github.com/loggregator/gosub
 
 go 1.12
 
